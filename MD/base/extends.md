@@ -94,5 +94,5 @@ SubString
     
     > 类的方法可以被继承，但是类的构造器和 `private` 修饰的属性及方法不能被继承。
     
-![内存图](https://user-gold-cdn.xitu.io/2018/8/31/1658f1680df88ba6?w=1340&h=630&f=png&s=301145)
+![内存图](../../static/base/extends_01)
 
