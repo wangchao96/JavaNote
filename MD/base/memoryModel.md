@@ -1,5 +1,5 @@
 # Java 运行时的内存划分
-![Java 运行时的内存划分图](https://user-gold-cdn.xitu.io/2018/8/29/165838b33fac2652?w=823&h=640&f=png&s=52604)
+![Java 运行时的内存划分图](../../static/base/memoryModel_01)
 
 >运行时数据区主要包括：方法区，堆，Java 虚拟机栈，程序计数器，本地方法栈。
 
