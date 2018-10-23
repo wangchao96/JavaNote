@@ -98,7 +98,7 @@
     
     - **不使用MQ**
     
-        ![场景举例](https://user-gold-cdn.xitu.io/2018/10/22/16699bfe19ed784c?w=561&h=163&f=png&s=7570)
+        ![场景举例](https://user-gold-cdn.xitu.io/2018/10/23/1669ea6895591ef9?w=546&h=152&f=png&s=10348)
         
         
         这个时候如果让系统硬抗会导致系统挂掉。
