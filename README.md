@@ -1,4 +1,4 @@
-# JavaNote
+# JavaNotes
 
 ### Java 基础知识
 - [Java 运行时的内存划分](https://github.com/wangchao96/JavaNote/blob/master/MD/base/memoryModel.md)
