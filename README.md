@@ -9,6 +9,6 @@
 
 ### MQ
 - [MQ 常见的使用场景](/MD/mq/mq.md)
-- [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.md)
+- [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.MD)
 - [RabbitMQ 消息队列之 Exchange Types](/MD/mq/RabbitMq_02.MD)
 
