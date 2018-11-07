@@ -8,5 +8,5 @@
 - [Singleton 单例设计模式](https://github.com/wangchao96/JavaNote/blob/master/MD/designPattern/singleton.md)
 
 ### MQ
-- [MQ快速入门](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/mq.md)
+- [MQ 常见的使用场景](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/mq.md)
 
