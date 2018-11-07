@@ -9,6 +9,6 @@
 
 ### MQ
 - [MQ 常见的使用场景](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/mq.md)
-- [RabbitMQ 和消息传递常用一些术语](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/RabbitMq/RabbitMq_02.md)
-- [RabbitMQ 消息队列之 Exchange Types](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/RabbitMq/RabbitMq_02.md)
+- [RabbitMQ 和消息传递常用一些术语](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/RabbitMq_02.md)
+- [RabbitMQ 消息队列之 Exchange Types](https://github.com/wangchao96/JavaNote/blob/master/MD/mq/RabbitMq_02.md)
 
