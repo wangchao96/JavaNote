@@ -2,7 +2,7 @@
 
 ### Java 基础知识
 - [Java 运行时的内存划分](/MD/base/memoryModel.md)
-- [Java 中创建子类对象会创建父类对象么？](/MD/base/memoryModel.md)
+- [Java 中创建子类对象会创建父类对象么？](/MD/base/extends.md)
 
 ### 设计模式
 - [Singleton 单例设计模式](/MD/designPattern/singleton.md)
