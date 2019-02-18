@@ -3,13 +3,14 @@
 ### Java 基础知识
 - [Java 运行时的内存划分](/MD/base/memoryModel.md)
 - [Java 中创建子类对象会创建父类对象么？](/MD/base/extends.md)
-- [IO流]
-- [NIO]
 - [synchronized]
 - [synchronized 关键字]
 - [volatile 关键字]
 - [反射]
 - [序列化]
+- [异常]
+- [IO流]
+- [NIO]
 
 ### 数据结构
 - [数组]
