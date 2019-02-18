@@ -18,7 +18,7 @@
 - [Singleton 单例设计模式](/MD/designPattern/singleton.md)
 
 ### MQ
-- [MQ 常见的使用场景](/MD/mq/mq.md)
+- [MQ 了解一下！](/MD/mq/mq.md)
 - [MQ 技术选型](/MD/mq/choice.md)
 - [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.MD)
 - [RabbitMQ 消息队列之 Exchange Types](/MD/mq/RabbitMq_02.MD)
