@@ -19,6 +19,7 @@
 
 ### MQ
 - [MQ 常见的使用场景](/MD/mq/mq.md)
+- [MQ 技术选型](/MD/mq/choice.md)
 - [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.MD)
 - [RabbitMQ 消息队列之 Exchange Types](/MD/mq/RabbitMq_02.MD)
 - [RabbitMQ 消息队列之队列模型](/MD/mq/queue_model.md)
