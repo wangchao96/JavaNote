@@ -5,17 +5,29 @@
 - [Java 中创建子类对象会创建父类对象么？](/MD/base/extends.md)
 
 ### 算法、数据结构
+- [HashMap]
 
 ### 计算机网络
+- [TCP\UDP 了解一下！]
+- [TCP 三次握手、四次挥手]
 
 ### 数据库
-
+- [MySql 数据库引擎]
 ### 操作系统
 
 ### Spring Framework
+- [Spring IOC]
+- [Spring AOP]
+- [Spring 事务隔离级别]
+- [Spring 事务传播行为]
+- [Spring MVC 工作原理]
 
 ### 设计模式
 - [Singleton 单例设计模式](/MD/designPattern/singleton.md)
+- [工厂设计模式]
+- [代理设计模式]
+- [观察者设计模式]
+- [适配器设计模式]
 
 ### MQ
 - [MQ 了解一下！](/MD/mq/mq.md)
@@ -30,6 +42,7 @@
 ### Redis
 - [Redis 了解一下！]
 - [Redis 数据结构]
+- [Redis 线程模型]
 - [Redis 与 memcached]
 - [Redis 过期策略]
 - [Redis 内存淘汰机制]
