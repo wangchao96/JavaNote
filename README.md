@@ -23,8 +23,8 @@
 - [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.MD)
 - [RabbitMQ 消息队列之 Exchange Types](/MD/mq/RabbitMq_02.MD)
 - [RabbitMQ 消息队列之队列模型](/MD/mq/queue_model.md)
-- [MQ 重复消费问题（幂等性）]()
-- [MQ 消息丢失问题（可靠传输）]
+- [MQ 重复消费问题(幂等性)]
+- [MQ 消息丢失问题(可靠传输)]
 - [MQ 消息传递顺序性问题]
 
 ### Redis
