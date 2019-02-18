@@ -23,10 +23,22 @@
 - [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.MD)
 - [RabbitMQ 消息队列之 Exchange Types](/MD/mq/RabbitMq_02.MD)
 - [RabbitMQ 消息队列之队列模型](/MD/mq/queue_model.md)
-- [MQ 重复消费问题（幂等性）]
+- [MQ 重复消费问题（幂等性）]()
 - [MQ 消息丢失问题（可靠传输）]
 - [MQ 消息传递顺序性问题]
 
 ### Redis
+- [Redis 了解一下！]
+- [Redis 数据结构]
+- [Redis 与 memcached]
+- [Redis 过期策略]
+- [Redis 内存淘汰机制]
+- [Redis 持久化]
+- [Redis 主从模式]
+- [Redis 哨兵]
+- [Redis 缓存与数据库双写]
+- [Redis 缓存雪崩]
+- [Redis 缓存穿透]
 
 ### Dubbo
+- [Dubbo 了解一下！]
