@@ -4,6 +4,16 @@
 - [Java 运行时的内存划分](/MD/base/memoryModel.md)
 - [Java 中创建子类对象会创建父类对象么？](/MD/base/extends.md)
 
+### 算法、数据结构
+
+### 计算机网络
+
+### 数据库
+
+### 操作系统
+
+### Spring Framework
+
 ### 设计模式
 - [Singleton 单例设计模式](/MD/designPattern/singleton.md)
 
@@ -12,3 +22,7 @@
 - [RabbitMQ 和消息传递常用一些术语](/MD/mq/RabbitMq_01.MD)
 - [RabbitMQ 消息队列之 Exchange Types](/MD/mq/RabbitMq_02.MD)
 - [RabbitMQ 消息队列之队列模型](/MD/mq/queue_model.md)
+
+### Redis
+
+### Dubbo
