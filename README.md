@@ -3,9 +3,10 @@
 ### Java 基础知识
 - [Java 运行时的内存划分](/MD/base/memoryModel.md)
 - [Java 中创建子类对象会创建父类对象么？](/MD/base/extends.md)
-- [synchronized]
 - [synchronized 关键字]
 - [volatile 关键字]
+- [final 关键字]
+- [transient 关键字]
 - [反射]
 - [序列化]
 - [异常]
@@ -35,6 +36,7 @@
 - [TCP 三次握手、四次挥手]
 
 ### 数据库
+- [数据库事务隔离级别]
 - [MySql 数据库引擎]
 - [数据库锁]
 - [数据库索引]
