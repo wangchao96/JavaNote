@@ -87,6 +87,9 @@
 - [Redis 缓存雪崩]
 - [Redis 缓存穿透]
 
+### zookeeper
+- [zookeeper 了解一下！]
+
 ### Dubbo
 - [Dubbo 了解一下！]
 - [Dubbo 支持的通信协议]
