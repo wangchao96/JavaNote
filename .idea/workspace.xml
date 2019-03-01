@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b86d289-31d0-4549-ba3a-1f6021f2c673" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java集合总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java总体框架.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/ArrayList.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/ArrayList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashMap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashSet.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashSet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashTable.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashTable.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java集合总体框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/LinkedList.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/LinkedList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Stack.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Stack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/TreeMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/TreeMap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/TreeSet.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/TreeSet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Vector.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Vector.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/WeakHashMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/WeakHashMap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/extends.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/JVM/extends.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/base/memoryModel.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/JVM/memoryModel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/designPattern/singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/设计模式/singleton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/mq/RabbitMq_01.MD" beforeDir="false" afterPath="$PROJECT_DIR$/MD/消息队列/RabbitMq_01.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/mq/RabbitMq_02.MD" beforeDir="false" afterPath="$PROJECT_DIR$/MD/消息队列/RabbitMq_02.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/mq/choice.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/消息队列/choice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/mq/mq.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/消息队列/mq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/mq/queue_model.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/消息队列/queue_model.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +52,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="319" />
+          <entry key="md" value="352" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="319" />
+          <entry key="Markdown" value="352" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,11 +77,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/extends.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/JVM/extends.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="488">
-                <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="36" />
+                <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,7 +89,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/LinkedList.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/LinkedList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -80,12 +98,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java总体框架.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="133">
-                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+                <caret line="7" column="13" selection-end-line="44" selection-end-column="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,7 +123,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/TreeSet.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/TreeSet.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -115,7 +133,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashMap.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashMap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -125,7 +143,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/WeakHashMap.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/WeakHashMap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -135,7 +153,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashTable.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashTable.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -145,7 +163,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/TreeMap.md">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/TreeMap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -169,11 +187,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/MD/markdown.md" />
         <option value="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java集合框架.md" />
         <option value="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java集合总结.md" />
         <option value="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java总体框架.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -218,31 +236,14 @@
               <item name="JavaNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaNotes" type="462c0819:PsiDirectoryNode" />
               <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="Java基础知识" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaNotes" type="462c0819:PsiDirectoryNode" />
               <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="Java基础知识" type="462c0819:PsiDirectoryNode" />
               <item name="JaveSE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaNotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="JaveSE" type="462c0819:PsiDirectoryNode" />
-              <item name="集合" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaNotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="JaveSE" type="462c0819:PsiDirectoryNode" />
-              <item name="集合" type="462c0819:PsiDirectoryNode" />
-              <item name="Java集合" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaNotes" type="b2602c69:ProjectViewProjectNode" />
@@ -272,7 +273,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551429393568" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551429830756" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -280,6 +281,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MD/Java基础知识/JaveSE/JVM" />
       <recent name="$PROJECT_DIR$/static/base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -310,12 +312,12 @@
       <updated>1551335893985</updated>
       <workItem from="1551335895441" duration="886000" />
       <workItem from="1551354894356" duration="28000" />
-      <workItem from="1551427584798" duration="1799000" />
+      <workItem from="1551427584798" duration="2113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2713000" />
+    <option name="totallyTimeSpent" value="3027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1006" extended-state="6" />
@@ -383,7 +385,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/ArrayList.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/ArrayList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -391,7 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Vector.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Vector.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -399,7 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Stack.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Stack.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -407,7 +409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashSet.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashSet.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -415,7 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/TreeSet.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/TreeSet.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -423,7 +425,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashMap.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashMap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -431,7 +433,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/WeakHashMap.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/WeakHashMap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -439,7 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/HashTable.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/HashTable.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -447,7 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/TreeMap.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/TreeMap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -465,17 +467,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/extends.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/JVM/extends.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="488">
-            <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="36" />
+            <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/LinkedList.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/LinkedList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -483,21 +485,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="13" selection-end-line="44" selection-end-column="72" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java总体框架.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
