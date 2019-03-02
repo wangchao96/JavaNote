@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b86d289-31d0-4549-ba3a-1f6021f2c673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ArrayBlockingQueue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentHashMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentLinkedDeque.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentLinkedQueue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentSkipListMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentSkipListSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/CopyOnWriteArrayList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/CopyOnWriteArraySet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/LinkedBlockingDeque.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/LinkedBlockingQueue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/JUC_List&amp;Set.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/JUC_Map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/JUC_Queue.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,38 +30,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="30" />
+          <entry key="md" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="30" />
+          <entry key="Markdown" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="892" />
+          <entry key="md" value="1062" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="892" />
+          <entry key="Markdown" value="1062" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentSkipListSet.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/ConcurrentHashMap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -139,12 +122,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="373">
-                <caret line="40" column="9" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="9" />
+              <first_editor relative-caret-position="368">
+                <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-4">
+                <caret line="1" column="120" selection-start-line="1" selection-start-column="120" selection-end-line="1" selection-end-column="120" />
               </first_editor>
               <second_editor />
             </state>
@@ -152,11 +147,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="626">
-                <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -183,8 +178,8 @@
         <option value="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java集合总结.md" />
         <option value="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合/Java总体框架.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md" />
         <option value="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md" />
+        <option value="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md" />
       </list>
     </option>
   </component>
@@ -299,13 +294,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/base" />
+      <recent name="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合" />
+      <recent name="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MD/Java基础知识/JaveSE/JVM" />
       <recent name="$PROJECT_DIR$/static/base" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合" />
-      <recent name="$PROJECT_DIR$/MD/base/JaveSE/集合/Java集合" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,12 +330,12 @@
       <workItem from="1551354894356" duration="28000" />
       <workItem from="1551427584798" duration="4207000" />
       <workItem from="1551495298451" duration="1232000" />
-      <workItem from="1551527224045" duration="3364000" />
+      <workItem from="1551527224045" duration="4178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9717000" />
+    <option name="totallyTimeSpent" value="10531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="726" extended-state="6" />
@@ -507,16 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/CopyOnWriteArrayList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -597,11 +583,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="626">
-            <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -610,8 +596,18 @@
     <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/Java集合/Java集合总体框架.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="373">
-            <caret line="40" column="9" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="9" />
+          <first_editor relative-caret-position="368">
+            <caret line="39" column="119" selection-start-line="39" selection-start-column="119" selection-end-line="39" selection-end-column="119" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD/Java基础知识/JaveSE/集合/JUC集合/JUC集合总体框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-4">
+            <caret line="1" column="120" selection-start-line="1" selection-start-column="120" selection-end-line="1" selection-end-column="120" />
           </first_editor>
           <second_editor />
         </state>
