@@ -1,5 +1,6 @@
 # List & Set
 JUC 集合包中的 List 和 Set 实现类包括: CopyOnWriteArrayList, CopyOnWriteArraySet 和 ConcurrentSkipListSet(基于 ConcurrentSkipListMap实现)。
+
 ![JUC_List&Set](/static/base/JUC_List&Set.jpg)
 ## CopyOnWriteArrayList
 ArrayList 的线程安全变体，其中所有可变操作(添加、设置等)都是通过创建底层数组的新副本来实现的，
@@ -12,6 +13,7 @@ TreeSet 的线程安全的变体；基于 ConcurrentSkipListMap 的可缩放并�
 
 # Map
 JUC 集合包中 Map 的实现类包括: ConcurrentHashMap 和 ConcurrentSkipListMap。
+
 ![JUC_Map](/static/base/JUC_Map.jpg)
 ## ConcurrentHashMap
 HashMap 的线程安全的变体，是线程安全的哈希表；它继承于 AbstractMap 类，并且实现 ConcurrentMap 接口，多个线程并发安全地执行插入、删除、更新和访问操作。
@@ -21,6 +23,7 @@ ConcurrentSkipListMap 是通过“跳表”来实现的，它支持并发。
 
 # Queue
 JUC 集合包中 Queue 的实现类包括: ArrayBlockingQueue, LinkedBlockingQueue, LinkedBlockingDeque, ConcurrentLinkedQueue 和 ConcurrentLinkedDeque。
+
 ![JUC_Map](/static/base/JUC_Queue.jpg)
 ## ArrayBlockingQueue
 基于数组实现的线程安全的有界的阻塞队列，此队列按 FIFO（先进先出）原则对元素进行排序。
