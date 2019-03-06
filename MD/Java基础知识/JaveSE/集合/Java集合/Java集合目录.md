@@ -12,7 +12,7 @@
 - [HashSet](/MD/Java基础知识/JaveSE/集合/Java集合/HashSet.md)
 - [TreeSet](/MD/Java基础知识/JaveSE/集合/Java集合/TreeSet.md)
 
-# Map
+## Map
 - [HashMap](/MD/Java基础知识/JaveSE/集合/Java集合/HashMap.md)
 - [WeakHashMap](/MD/Java基础知识/JaveSE/集合/Java集合/WeakHashMap.md)
 - [HashTable](/MD/Java基础知识/JaveSE/集合/Java集合/HashTable.md)
