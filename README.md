@@ -1,16 +1,11 @@
 # JavaNotes
 
 ## Java 基础知识
-### JavaSE
-- [JVM]
-- [集合]
-- [多线程]
-
-### JavaEE
 
 
-- [Java 运行时的内存划分](/MD/Java基础知识/JaveSE/JVM/memoryModel.md)
-- [Java 中创建子类对象会创建父类对象么？](/MD/Java基础知识/JaveSE/JVM/extends.md)
+- [JVM](/MD/Java基础知识/JaveSE/JVM/JVM目录.md)
+- [Java 集合](/MD/Java基础知识/JaveSE/集合/Java集合/Java集合目录.md)
+
 - [synchronized 关键字]
 - [volatile 关键字]
 - [final 关键字]
@@ -20,6 +15,8 @@
 - [异常]
 - [IO流]
 - [NIO]
+
+### JavaEE
 
 ### 数据结构
 - [数组]
