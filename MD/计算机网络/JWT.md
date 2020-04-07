@@ -60,6 +60,7 @@ HMACSHA256(
 JWT格式的输出是以.分隔的三段Base64编码，与SAML等基于XML的标准相比，JWT在HTTP和HTML环境中更容易传递。
 
 下列的JWT展示了一个完整的JWT格式，它拼接了之前的Header， Payload以及秘钥签名：
+![JWT1](/JWT1)
 # 如何使用JWT？
 在身份鉴定的实现中，传统方法是在服务端存储一个session，给客户端返回一个cookie，而使用JWT之后，当用户使用它的认证信息登陆系统之后，会返回给用户一个JWT，用户只需要本地保存该token（通常使用local storage，也可以使用cookie）即可。
 
@@ -72,6 +73,7 @@ Authorization: Bearer <token>
 JWT的这些特性使得我们可以完全依赖其无状态的特性提供数据API服务，甚至是创建一个下载流服务。因为JWT并不使用Cookie的，所以你可以使用任何域名提供你的API服务而不需要担心跨域资源共享问题（CORS）。
 
 下面的序列图展示了该过程：
+![JWT2](/JWT2)
 # 为什么要使用JWT？
 相比XML格式，JSON更加简洁，编码之后更小，这使得JWT比SAML更加简洁，更加适合在HTML和HTTP环境中传递。
 
